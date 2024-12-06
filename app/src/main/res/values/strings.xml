@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quizapp">QuizApp</string>
+    <string name="welcome">welcome</string>
+    <string name="name">Name</string>
+    <string name="image_flag">Image Flag</string>
+    <string name="check">check</string>
+</resources>
